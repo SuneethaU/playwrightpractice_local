@@ -1,0 +1,25 @@
+{
+  "name": "playwrightpractice_local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuneethaU/playwrightpractice_local.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SuneethaU/playwrightpractice_local/issues"
+  },
+  "homepage": "https://github.com/SuneethaU/playwrightpractice_local#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
